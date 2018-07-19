@@ -1,15 +1,15 @@
 # skills
 
-communication skills
+communication 
 
-listening skills
+listening 
 
-typing skills
+typing 
 
-creativity skills
+creativity 
 
-social skills
+social 
 
-teamwork skills
+teamwork 
 
-interpersonal skills
+interpersonal
