@@ -8,7 +8,7 @@ typing
 
 creativity 
 
-social 
+social
 
 teamwork 
 
