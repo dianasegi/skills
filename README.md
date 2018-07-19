@@ -11,3 +11,5 @@ creativity skills
 social skills
 
 teamwork skills
+
+interpersonal skills
